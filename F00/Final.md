@@ -12,5 +12,6 @@ Q1. (Code) Assume there is a class called Pixel and it has three data members: W
 | ${\color{blue}int}$ Blue  | 
 
 ${\color{red}int avg = (Red + Green + Blue)/3}$
+
 ${\color{red}int Red = avg; Green = avg; Blue = avg;}$
 
